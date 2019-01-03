@@ -8,6 +8,7 @@ const Query = {
     // }
 
 };
+//no logic, no additional things. If query is the same in yoga and prisma, we can just forward from yoga to prisma
 
 module.exports = Query;
 

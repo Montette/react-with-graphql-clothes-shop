@@ -1,4 +1,4 @@
-import withApollo from 'next-with-apollo';
+import withApollo from 'next-with-apollo'; //give us high order comp. 
 import ApolloClient from 'apollo-boost';
 import { endpoint } from '../config';
 
